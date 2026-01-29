@@ -1,7 +1,7 @@
-# <<Título principal: Mi ficha de Markdown>>
+# Mi ficha de Markdown
 
 ## 👤 Presentación
-Hola, soy **<<Tu nombre>>** y esta es mi primera ficha en Markdown.
+Hola, soy **Santigo Marin Betancur** y esta es mi primera ficha en Markdown.
 
 ### 🎯 Objetivo de esta ficha
 Aprender a escribir documentos claros y bonitos usando Markdown.
@@ -19,11 +19,11 @@ Aprender a escribir documentos claros y bonitos usando Markdown.
 4. Publicar
 
 ### Checklist
-- [ ] Agregué títulos
-- [ ] Agregué links
-- [ ] Agregué una imagen
-- [ ] Agregué emojis
-- [ ] Revisé que se vea bonito
+- [X] Agregué títulos
+- [X] Agregué links
+- [X] Agregué una imagen
+- [X] Agregué emojis
+- [X] Revisé que se vea bonito
 ## 🔗 Enlaces
 
 Mi página favorita para aprender:
