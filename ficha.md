@@ -1,7 +1,7 @@
 # Mi ficha de Markdown
 
 ## 👤 Presentación
-Hola, soy **Santigo Marin Betancur** y esta es mi primera ficha en Markdown.
+Hola, soy **Santiago Marin Betancur** y esta es mi primera ficha en Markdown.
 
 ### 🎯 Objetivo de esta ficha
 Aprender a escribir documentos claros y bonitos usando Markdown.
