@@ -27,18 +27,18 @@ Aprender a escribir documentos claros y bonitos usando Markdown.
 ## 🔗 Enlaces
 
 Mi página favorita para aprender:
-- [<<Nombre del sitio>>](<<https://...>>)
+- [LEARNING PYTHON](<<https://www.learnpython.org/>>)
 
 Un video recomendado:
-- [<<Título del video>>](<<https://www.youtube.com/watch?v=...>>)
-[Ir a Formato de texto](#-formato-de-texto)
+- [Curso COMPLETO de Python DESDE CERO para Principiantes 2025](<<https://www.youtube.com/watch?v=TkN2i-_4N4g>>)
+[YOUTUBE](https://www.youtube.com/watch?v=TkN2i-_4N4g)
 ## 🖼️ Imagen
 
-![Imagen de ejemplo](<<pega aquí una URL de imagen que termine en .png o .jpg>>)
+![alt text](image.png) [LINK](https://spaintravelexpress.com/shared/images/z/big/z_mallorca-_3807.jpg)
 ## 🌈 Emojis con intención
 
-Hoy me siento: <<🙂 / 😎 / 🤖 / 🚀 etc.>>
-Mis herramientas favoritas: <<💻 🧠 🔧>>
+Hoy me siento: 😎  
+Mis herramientas favoritas: 💻 🧠
 ## 🧩 Bloques para un buen diseño
 
 > **Tip:** si tu documento se entiende sin explicarlo en voz alta, está bien escrito.
